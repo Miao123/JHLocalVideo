@@ -13,6 +13,7 @@
 		A1D5BC791B58A3A500828A22 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1D5BC781B58A3A500828A22 /* Images.xcassets */; };
 		A1D5BC7C1B58A3A500828A22 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1D5BC7A1B58A3A500828A22 /* LaunchScreen.xib */; };
 		A1D5BC881B58A3A500828A22 /* swift______Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D5BC871B58A3A500828A22 /* swift______Tests.swift */; };
+		A1FED9A51B58ADA200FEB275 /* popeye.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1FED9A41B58ADA200FEB275 /* popeye.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A1D5BC811B58A3A500828A22 /* swift播放本地视频Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift播放本地视频Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D5BC861B58A3A500828A22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1D5BC871B58A3A500828A22 /* swift______Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift______Tests.swift"; sourceTree = "<group>"; };
+		A1FED9A41B58ADA200FEB275 /* popeye.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = popeye.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		A1D5BC6E1B58A3A500828A22 /* swift播放本地视频 */ = {
 			isa = PBXGroup;
 			children = (
+				A1FED9A41B58ADA200FEB275 /* popeye.mp4 */,
 				A1D5BC711B58A3A500828A22 /* AppDelegate.swift */,
 				A1D5BC731B58A3A500828A22 /* ViewController.swift */,
 				A1D5BC751B58A3A500828A22 /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				A1D5BC771B58A3A500828A22 /* Main.storyboard in Resources */,
 				A1D5BC7C1B58A3A500828A22 /* LaunchScreen.xib in Resources */,
 				A1D5BC791B58A3A500828A22 /* Images.xcassets in Resources */,
+				A1FED9A51B58ADA200FEB275 /* popeye.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +411,7 @@
 				A1D5BC8D1B58A3A500828A22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A1D5BC8E1B58A3A500828A22 /* Build configuration list for PBXNativeTarget "swift播放本地视频Tests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				A1D5BC901B58A3A500828A22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
